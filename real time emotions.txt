@@ -1,0 +1,10 @@
+real time emotions:
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+pip install deepface
+pip freeze requirements.txt
+pip install tensorflow
+pip install numpy
+pip install opencv-contrib-python
+pip install tf-keras
